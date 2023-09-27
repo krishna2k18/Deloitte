@@ -1,0 +1,66 @@
+loops and dattypes
+
+oops
+class and objectgs
+constructor
+1)static constructor 2)private constructor we cant create object of tht class
+3)copy constructor
+destructor
+method parameters
+propertiesand indexers
+ovaerriding and overloading
+static and dynamic poly
+static virtual override
+abstract methods and classes
+abstract class and abstract method
+we can not crete object
+in abstract class non abstrct methods
+with child class object we call non abstract method
+abstract  class can inherit from other interface
+
+interfaces
+sending interface as parameters
+explicit and implicit interfaces
+
+interface inheritance
+static properties and constructor
+
+files read write and drives
+delegates 
+single cast 
+multicast
+ linq
+proejction operators
+min max
+extension methods
+=>lambda
+find 
+first or default
+---------------------------DOTNETTUTORIAL.NET-----------------------------------------
+HTML AND JS
+events
+objects 
+classes
+arrow functions
+hoisting
+functions indepth
+es6 features
+W3SCHOOLS
+https://www.tutorialrepublic.com/references.php
+css selectors
+id class attribute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
